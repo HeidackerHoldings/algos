@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\natha\\Desktop\\work\\repos\\lean\\venv\\Scripts\\python.exe",
+    "python.languageServer": "Pylance",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
